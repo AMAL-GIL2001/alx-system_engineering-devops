@@ -1,1 +1,3 @@
-this a readme file ,be aware please 
+this repository is about writting different shell scripts using some basics linux commands 
+Take care
+
