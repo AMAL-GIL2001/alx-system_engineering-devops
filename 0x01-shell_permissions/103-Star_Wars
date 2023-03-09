@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Star war"
+telnet towel.blinkenlights.nl
